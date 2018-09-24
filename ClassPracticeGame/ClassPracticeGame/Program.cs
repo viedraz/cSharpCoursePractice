@@ -9,6 +9,9 @@ class Program
     static void Main(string[] args)
     {
         // TODO : Start your game here!
+        Console.WriteLine("Hello World!");
+        Console.ReadKey();
+
     }
 }
 
